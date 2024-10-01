@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family:"Oswald";
+}
+
+header {
+    background-color: #0c120c;
+    height: 4rem;
+    color: #ecebf3;
+    display: flex;
+    justify-content: center;
+}
