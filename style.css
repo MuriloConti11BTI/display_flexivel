@@ -15,3 +15,47 @@ header {
     display: flex;
     justify-content: center;
 }
+
+.primeira {
+    display: flex;
+    justify-content: space-between;
+}
+
+.primeira img {
+    width: 24rem;
+}
+
+.primeira p {
+    width: 45rem;
+}
+
+.segunda {
+    background-color: #26BB2B;
+    height: 20rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 2rem;
+}
+
+.segunda img {
+    width: 25.5rem;
+}
+
+.segunda p {
+    width: 35rem;
+    margin-left: 2rem;
+}
+
+.terceira {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2rem;
+}
+
+.terceira img {
+    width: 30rem;
+    height: 20rem;
+    justify-content: space-around;
+}
